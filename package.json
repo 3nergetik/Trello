@@ -20,6 +20,9 @@
     "preshow:dist": "yarn run build",
     "show:dist": "live-server dist"
   },
+  "dependencies": {
+    "core-js": "^3.7.0"
+  },
   "devDependencies": {
     "@babel/cli": "^7.12.1",
     "@babel/core": "^7.12.3",
